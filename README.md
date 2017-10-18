@@ -1,6 +1,7 @@
 This is demo repo, that shows how to reproduce https://github.com/desktop/desktop/issues/2480 bug.
 
 OS: Windows 10 Enterprise 2016 LTSB
+
 GitHub Desktop version: 1.0.4
 
 ```
